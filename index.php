@@ -1,1 +1,5 @@
-ECHO est  activado.
+<?php
+
+    echo "solucionado confictos"
+
+?>
